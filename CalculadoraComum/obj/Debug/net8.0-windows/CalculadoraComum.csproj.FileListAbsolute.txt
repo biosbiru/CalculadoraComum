@@ -1,0 +1,16 @@
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\bin\Debug\net8.0-windows\CalculadoraComum.exe
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\bin\Debug\net8.0-windows\CalculadoraComum.deps.json
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\bin\Debug\net8.0-windows\CalculadoraComum.runtimeconfig.json
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\bin\Debug\net8.0-windows\CalculadoraComum.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\bin\Debug\net8.0-windows\CalculadoraComum.pdb
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.Form1.resources
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.csproj.GenerateResource.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.GeneratedMSBuildEditorConfig.editorconfig
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.AssemblyInfoInputs.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.AssemblyInfo.cs
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.csproj.CoreCompileInputs.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\refint\CalculadoraComum.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.pdb
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\CalculadoraComum.genruntimeconfig.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraComum\CalculadoraComum\obj\Debug\net8.0-windows\ref\CalculadoraComum.dll
